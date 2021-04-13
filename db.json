@@ -41,6 +41,22 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Herby",
+      "image": "https://png.pngtree.com/element_pic/17/03/28/f104bfa7f0b88a429333dd23d4423837.jpg",
+      "price": 20,
+      "id": 8
+    },
+    {
+      "name": {
+        "name": "Herbicus"
+      },
+      "image": {
+        "img": "https://png.pngtree.com/element_pic/17/03/28/f104bfa7f0b88a429333dd23d4423837.jpg"
+      },
+      "price": 23.5,
+      "id": 9
     }
   ]
 }
